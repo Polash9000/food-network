@@ -25,7 +25,7 @@ h2{
 }
 .gray-color{
     color: gray;
-    font-size: 35px;
+    font-size: 30px;
 }
 .advertise-area{
     display: flex;
@@ -97,4 +97,16 @@ h2{
 .so-area-content{
     font-size: 50px;
     font-weight: 1000;
+}
+.footer-area{
+    text-align: center;
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footer-area h2{
+    font-size: 30px;
+}
+.footer-area p{
+    color: white;
 }
