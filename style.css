@@ -25,7 +25,7 @@ h2{
 }
 .gray-color{
     color: gray;
-    font-size: 30px;
+    font-size: 35px;
 }
 .advertise-area{
     display: flex;
@@ -58,8 +58,25 @@ h2{
 .content-style{
     padding-right: 8%;
     padding-top: 8%;
-    text-align: justify;
 }
 .recipe-content{
     text-align: center;
+}
+.recipe-item{
+    width: 50%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 15px 15px 15px 15px;
+    border-radius: 25px;
+    box-shadow: 7px 7px 40px gray;
+}
+.all-recipe-padding{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.recipe-item img{
+    width: 100%;
+}
+.recipe-item h2{
+    font-size: 25px;
 }
