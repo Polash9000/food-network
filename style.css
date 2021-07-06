@@ -80,3 +80,21 @@ h2{
 .recipe-item h2{
     font-size: 25px;
 }
+.social-area{
+    width: 50%;
+    text-align: center;
+}
+.all-social-area{
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 7px 7px 40px gray;
+    margin-left: 7%;
+    margin-right: 7%;
+    border-radius: 25px;
+}
+.so-area-content{
+    font-size: 50px;
+    font-weight: 1000;
+}
