@@ -1,0 +1,65 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.welcome-area{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    text-align: center;
+}
+.about-area{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+.salmon-color{
+    color: salmon;
+}
+.gray-color{
+    color: gray;
+    font-size: 30px;
+}
+.advertise-area{
+    display: flex;
+    margin-bottom: 100px;
+}
+.order-area{
+    padding-left: 8%;
+    width: 95%;
+}
+.order-area img{
+    width: 80%;
+}
+.button-style{
+    text-decoration: none;
+    background-image: linear-gradient(orange, salmon);
+    padding: 20px 60px;
+    border-radius: 50px;
+}
+.address-area{
+    padding-left: 8%;
+    width: 50%;
+}
+.address-area img{
+    width: 60%;
+    padding-left: 20%;
+}
+.address-area h1{
+    font-size: 40px;
+}
+.content-style{
+    padding-right: 8%;
+    padding-top: 8%;
+    text-align: justify;
+}
+.recipe-content{
+    text-align: center;
+}
